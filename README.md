@@ -1,6 +1,6 @@
 # JBW Web Portfolio
 
-#### Jessie's web portfolio of items worked on to date, Friday, September 8, 2017
+#### Jessie's Web Portfolio Assignment, Friday, September 8, 2017
 
 #### By Jessie Waite
 
