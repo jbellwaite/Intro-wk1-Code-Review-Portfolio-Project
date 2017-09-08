@@ -71,9 +71,5 @@ li a {
 
 .border{
   border: black;
-  background:linear-gradient(#f3dabf,#f3dadf,#f3daff) ;
-}
-
-.background-img{
-  background-image: url("img/me.png");
+  background:#aa98b2;
 }
