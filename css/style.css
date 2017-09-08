@@ -47,11 +47,7 @@ p {
 }
 
 .nav {
-  list-style-type: none;
-  margin: 0;
   padding: 8px;
-  overflow: hidden;
-  background-color: none;
   color:#e3df76;
 }
 
