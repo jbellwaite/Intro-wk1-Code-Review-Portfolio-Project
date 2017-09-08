@@ -9,8 +9,29 @@ body {
 h1 {
   text-align: center;
   text-decoration: underline;
+  text-transform: lowercase;
+  color: #4e5b6e;
 }
 
 h3 {
   text-align: center;
+  text-transform: lowercase;
+}
+.nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 8px;
+  overflow: hidden;
+  background-color: #4e5b6e;
+}
+
+li  {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
 }
