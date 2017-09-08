@@ -43,3 +43,12 @@ li a {
   text-align: center;
   padding: 14px 16px;
 }
+
+.panel-heading-custom {
+  background-color: #4e5b6e;
+  color: white;
+  padding: 10px 15px;
+  border-bottom: 1px solid transparent;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+}
