@@ -7,25 +7,28 @@
 }
 
 body {
-  background-color: #e4fffd;
+  background: #f3daff;
+  background: -webkit-linear-gradient(#f3daff,#f3dadf,#f3dabf);
+  background: linear-gradient(#f3daff,#f3dadf,#f3dabf);
 }
 
 h1 {
   text-align: center;
-  text-decoration: underline;
   text-transform: lowercase;
-  color: #4e5b6e;
+  color: white;
 }
 h2 {
   text-align: center;
   text-transform: lowercase;
-  color:#4e5b6e;
+  color: white;
 }
 h3 {
   text-align: center;
   text-transform: lowercase;
   color: white;
 }
+
+
 .nav {
   list-style-type: none;
   margin: 0;
@@ -47,7 +50,7 @@ li a {
 }
 
 .panel-heading-custom {
-  background-color: #4e5b6e;
+  background-color: #aa98b2;
   color: white;
   padding: 10px 15px;
   border-bottom: 1px solid transparent;
