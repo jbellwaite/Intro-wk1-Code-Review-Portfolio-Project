@@ -1,37 +1,31 @@
-# _{Application Name}_
+# JBW Web Portfolio
 
-#### _{Brief description of application}, {Date of current version}_
+#### Jessie's web portfolio of items worked on to date, Friday, September 8, 2017
 
-#### By _**{List of contributors}**_
+#### By Jessie Waite
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_This is a website designed to provide an overview of the items that we've learned in Epicodus class so far. This fulfills the class assignment requirements to include HTML, CSS and Bootstrap styles, include specific tags, commits, and deployment to GitHub. This project includes custom-made style sheets that use cascading, the box model, and floats. This project is as polished as possible, given the time limits._
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+* _You will need to access this document via Epicenter and use a web-browser, preferably Chrome, to view the content._
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+_I had to use a work-around to get my list items to work properly within the panels. For some reason, the list items (li) would not stack on top of one another, and smooshed together in one line. To get around this, I used a <br> code at the end of each line item, and it appears much better on screen._
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_Please submit all feedback to Jessie at jess.bell@me.com_
 
 ## Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+_I used HTML, CSS, and Bootstrap to style this website._
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*This software is not yet licensed, but it will be licensed under the MIT license when it is.*
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2016 **_Jessie Waite_**
