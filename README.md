@@ -14,7 +14,9 @@ _This is a website designed to provide an overview of the items that we've learn
 
 ## Known Bugs
 
-_I had to use a work-around to get my list items to work properly within the panels. For some reason, the list items (li) would not stack on top of one another, and smooshed together in one line. To get around this, I used a <br> code at the end of each line item, and it appears much better on screen._
+_I had to use a work-around to get my list items to work properly within the panels. For some reason, the list items (li) would not stack on top of one another, and smooshed together in one line. To get around this, I had to add a <media-body> to each of the <li> items. It looks a little better, but I'm not sure what happened.
+
+Also, for some reason the text in my About Me panel extends out the side of the panel. I"m not sure why or how to get it to stop._
 
 ## Support and contact details
 
