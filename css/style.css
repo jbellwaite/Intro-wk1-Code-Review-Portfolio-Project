@@ -24,13 +24,15 @@ h2 {
 h3 {
   text-align: center;
   text-transform: lowercase;
+  color: white;
 }
 .nav {
   list-style-type: none;
   margin: 0;
   padding: 8px;
   overflow: hidden;
-  background-color: #4e5b6e;
+  background-color: none;
+  color:#4e5b6e;
 }
 
 li  {
@@ -51,4 +53,10 @@ li a {
   border-bottom: 1px solid transparent;
   border-top-left-radius: 3px;
   border-top-right-radius: 3px;
+}
+
+.italics {
+  font-style: italic;
+  font-weight: lighter;
+  text-align: center;
 }
