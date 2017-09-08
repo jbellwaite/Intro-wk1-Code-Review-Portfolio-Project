@@ -1,3 +1,16 @@
 .left {
   float: left;
 }
+
+body {
+  background-color: #e4fffd;
+}
+
+h1 {
+  text-align: center;
+  text-decoration: underline;
+}
+
+h3 {
+  text-align: center;
+}
