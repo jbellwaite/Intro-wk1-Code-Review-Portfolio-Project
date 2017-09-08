@@ -5201,11 +5201,11 @@ a.thumbnail.active {
 }
 .media,
 .media-body {
-  overflow: hidden;
+  overflow: auto;
   zoom: 1;
 }
 .media-body {
-  width: 10000px;
+  width: 1000px;
 }
 .media-object {
   display: block;
