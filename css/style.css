@@ -16,9 +16,7 @@ img.center{
   }
 
 body {
-  background: #f3daff;
-  background: -webkit-linear-gradient(#f3daff,#f3dadf,#f3dabf);
-  background: white;
+    background: white;
 }
 
 h1 {
@@ -28,12 +26,14 @@ h1 {
   text-shadow: 2px 2px #8b6d74;
   font: arial;
 }
+
 h2 {
   text-align: center;
   text-transform: lowercase;
   color: white;
   text-shadow: 2px 2px #8b6d74;
 }
+
 h3 {
   text-align: center;
   text-transform: lowercase;
