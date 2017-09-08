@@ -21,16 +21,19 @@ h1 {
   text-align: center;
   text-transform: lowercase;
   color: white;
+  text-shadow: 2px 2px #8b6d74;
 }
 h2 {
   text-align: center;
   text-transform: lowercase;
   color: white;
+  text-shadow: 2px 2px #8b6d74;
 }
 h3 {
   text-align: center;
   text-transform: lowercase;
   color: white;
+  text-shadow: 2px 2px #8b6d74;
 }
 
 
@@ -55,7 +58,7 @@ li a {
 }
 
 .panel-heading-custom {
-  background-color: #e3df76;
+  background-color: #eeebac;
   color: white;
   padding: 10px 15px;
   border-bottom: 1px solid transparent;
