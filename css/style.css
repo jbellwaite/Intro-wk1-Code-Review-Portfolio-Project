@@ -41,6 +41,10 @@ h3 {
   text-shadow: 2px 2px #8b6d74;
 }
 
+p {
+  font-weight: 300;
+  font-size: 16px;
+}
 
 .nav {
   list-style-type: none;
@@ -53,6 +57,8 @@ h3 {
 
 li  {
   float: left;
+  font-weight: 300;
+  font-size: 16px;
 }
 
 li a {
