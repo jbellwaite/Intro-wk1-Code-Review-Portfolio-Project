@@ -14,7 +14,7 @@ img.center{
 body {
   background: #f3daff;
   background: -webkit-linear-gradient(#f3daff,#f3dadf,#f3dabf);
-  background: linear-gradient(#f3daff,#f3dadf,#f3dabf);
+  background: white;
 }
 
 h1 {
@@ -40,7 +40,7 @@ h3 {
   padding: 8px;
   overflow: hidden;
   background-color: none;
-  color:#4e5b6e;
+  color:#e3df76;
 }
 
 li  {
@@ -55,7 +55,7 @@ li a {
 }
 
 .panel-heading-custom {
-  background-color: #aa98b2;
+  background-color: #e3df76;
   color: white;
   padding: 10px 15px;
   border-bottom: 1px solid transparent;
@@ -71,5 +71,5 @@ li a {
 
 .border{
   border: black;
-  background:#aa98b2;
+  background:#c79da7;
 }
