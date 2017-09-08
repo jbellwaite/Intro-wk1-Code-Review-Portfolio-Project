@@ -12,7 +12,11 @@ h1 {
   text-transform: lowercase;
   color: #4e5b6e;
 }
-
+h2 {
+  text-align: center;
+  text-transform: lowercase;
+  color:#4e5b6e;
+}
 h3 {
   text-align: center;
   text-transform: lowercase;
