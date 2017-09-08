@@ -6,6 +6,11 @@
   float:right;
 }
 
+img.center{
+  display: block;
+  margin: auto;
+  }
+
 body {
   background: #f3daff;
   background: -webkit-linear-gradient(#f3daff,#f3dadf,#f3dabf);
@@ -62,4 +67,9 @@ li a {
   font-style: italic;
   font-weight: lighter;
   text-align: center;
+}
+
+.border{
+  border: black;
+  background:linear-gradient(#f3dabf,#f3dadf,#f3daff) ;
 }
